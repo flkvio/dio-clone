@@ -1,0 +1,24 @@
+{
+  "users": [
+    { "id": 1, "name": "Neo", "email": "neo@email.com", "password": "123456" },
+    {
+      "id": 2,
+      "name": "Elliot",
+      "email": "elliot@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Klara Böhringer",
+      "email": "killjoyt@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "name": "Koushiro Izumi",
+      "email": "izzy@email.com",
+      "password": "123456"
+    },
+    { "id": 5, "name": "Ed", "email": "ed@email.com", "password": "123456" }
+  ]
+}
